@@ -80,5 +80,5 @@ Penggunaan *GroupLayout* di dalam *JPanel* (jPanel1) memungkinkan posisi kompone
  willy Rahman 2210010103
 
 ## Demo
-
+![Demo GIF](https://github.com/willyrahman/ApkPenghitungKata/blob/main/img/Demo%20penghitungKata%20tugas%205.gif)
 
